@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+# PyTorch hỗ trợ GPU (RTX 3050), cài riêng nếu cần:
+# pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu121

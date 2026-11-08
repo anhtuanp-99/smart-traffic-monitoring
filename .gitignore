@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Bí mật (API key LLM)
+.env
+
+# Cơ sở dữ liệu cục bộ (khi làm dashboard)
+data/*.db
+
+# Video nặng 
+# video/*.mp4

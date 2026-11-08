@@ -1,0 +1,28 @@
+{
+    "timestamp": "2026-10-20T00:44:31.193782",
+    "location": "Nut giao thong Da Nang - Camera 01",
+    "interval_seconds": 60,
+    "active_vehicles_in_frame": 1,
+    "congestion_status": "Thap (Thong thoang)",
+    "lane_downward": {
+        "direction": "Bac -> Nam (Huong Xuong)",
+        "total_vehicles": 0,
+        "breakdown": {
+            "car": 0,
+            "motorbike": 0,
+            "bus": 0,
+            "truck": 0
+        }
+    },
+    "lane_upward": {
+        "direction": "Nam -> Bac (Huong Len)",
+        "total_vehicles": 0,
+        "breakdown": {
+            "car": 0,
+            "motorbike": 0,
+            "bus": 0,
+            "truck": 0
+        }
+    },
+    "ai_traffic_signal_recommendation": "Giu nguyen chu ky den tin hieu tieu chuan cho ca 2 lan."
+}

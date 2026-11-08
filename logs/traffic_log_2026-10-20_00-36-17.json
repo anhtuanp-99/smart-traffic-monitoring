@@ -1,0 +1,28 @@
+{
+    "timestamp": "2026-10-20T00:36:17.460233",
+    "location": "Nut giao thong Da Nang - Camera 01",
+    "interval_seconds": 60,
+    "active_vehicles_in_frame": 1,
+    "congestion_status": "Thap (Thong thoang)",
+    "lane_downward": {
+        "direction": "Bac -> Nam (Huong Xuong)",
+        "total_vehicles": 4,
+        "breakdown": {
+            "car": 1,
+            "motorbike": 1,
+            "bus": 0,
+            "truck": 2
+        }
+    },
+    "lane_upward": {
+        "direction": "Nam -> Bac (Huong Len)",
+        "total_vehicles": 24,
+        "breakdown": {
+            "car": 17,
+            "motorbike": 5,
+            "bus": 0,
+            "truck": 2
+        }
+    },
+    "ai_traffic_signal_recommendation": "Uu tien tang thoi gian den xanh cho Lan Len (+15s den +20s)."
+}
